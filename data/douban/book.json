@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12001,
+				"count": 12007,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -180,7 +180,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12491,
+				"count": 12494,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -266,7 +266,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 777338,
+				"count": 777360,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -360,7 +360,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 733121,
+				"count": 733138,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -545,7 +545,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 42451,
+				"count": 42452,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -630,7 +630,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 50743,
+				"count": 50747,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -806,7 +806,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 141147,
+				"count": 141154,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -898,7 +898,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 784923,
+				"count": 784965,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -990,7 +990,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23685,
+				"count": 23688,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1083,7 +1083,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 269068,
+				"count": 269088,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1262,7 +1262,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 28902,
+				"count": 28905,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1352,7 +1352,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 137839,
+				"count": 137852,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -1444,7 +1444,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 501995,
+				"count": 501997,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1711,7 +1711,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 139091,
+				"count": 139094,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
