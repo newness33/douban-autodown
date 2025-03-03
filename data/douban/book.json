@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18186,
+				"count": 18185,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -36,7 +36,8 @@
 			"other_versions_count": 57,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "刘慈欣 / 2018 / 读客文化",
 			"book_subtitle": "",
@@ -178,7 +179,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14926,
+				"count": 14928,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -263,7 +264,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 808895,
+				"count": 808903,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -280,7 +281,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 54,
+					"rank": 55,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -357,7 +358,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 774731,
+				"count": 774739,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -631,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 57376,
+				"count": 57377,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -808,7 +809,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 157542,
+				"count": 157547,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -901,7 +902,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 870022,
+				"count": 870033,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1088,7 +1089,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 296888,
+				"count": 296896,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -1181,7 +1182,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24688,
+				"count": 24689,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -1267,7 +1268,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32256,
+				"count": 32257,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1357,7 +1358,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 154054,
+				"count": 154061,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -1450,7 +1451,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 509076,
+				"count": 509079,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1627,7 +1628,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32981,
+				"count": 32982,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -1719,7 +1720,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 144199,
+				"count": 144200,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
