@@ -1,16 +1,16 @@
 # .github/workflows/douban.yml
 name: Douban Get Json
 on:
-  schedule:
-    - cron: '7 1,5,10,14,17,22 * * *'
-  # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#providing-inputs
-  workflow_dispatch:
-    inputs:
-      unconditional-invoking:
-        description: '获取豆瓣Json数据'
-        type: boolean
-        required: true
-        default: true
+  # schedule:
+  #   - cron: '7 1,5,10,14,17,22 * * *'
+  # # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#providing-inputs
+  # workflow_dispatch:
+  #   inputs:
+  #     unconditional-invoking:
+  #       description: '获取豆瓣Json数据'
+  #       type: boolean
+  #       required: true
+  #       default: true
 
 jobs:
   douban:
